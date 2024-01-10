@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Final%20Projects/ML-Flow%20Tutorial%20Practice/mlruns/0/501e8b33a9684126ae11e9ec50cb5d66/artifacts
+end_time: 1704799127227
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 501e8b33a9684126ae11e9ec50cb5d66
+run_name: resilient-steed-843
+run_uuid: 501e8b33a9684126ae11e9ec50cb5d66
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704799123503
+status: 3
+tags: []
+user_id: Asus

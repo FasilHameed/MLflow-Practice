@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Final%20Projects/ML-Flow%20Tutorial%20Practice/mlruns/0/f921871b880a4ba49bc4ff019458892b/artifacts
+end_time: 1704798444056
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f921871b880a4ba49bc4ff019458892b
+run_name: thundering-ant-612
+run_uuid: f921871b880a4ba49bc4ff019458892b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704798440726
+status: 3
+tags: []
+user_id: Asus

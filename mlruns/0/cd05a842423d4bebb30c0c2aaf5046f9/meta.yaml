@@ -1,0 +1,15 @@
+artifact_uri: file:///E:/Final%20Projects/ML-Flow%20Tutorial%20Practice/mlruns/0/cd05a842423d4bebb30c0c2aaf5046f9/artifacts
+end_time: 1704792886903
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cd05a842423d4bebb30c0c2aaf5046f9
+run_name: adaptable-snake-246
+run_uuid: cd05a842423d4bebb30c0c2aaf5046f9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1704792882418
+status: 3
+tags: []
+user_id: Asus
